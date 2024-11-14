@@ -11,7 +11,6 @@ Welcome to the **Advanced Next.js Project**! This project demonstrates best prac
 - [**Features**](#-features)
 - [**Installation**](#-installation)
 - [**Usage**](#-usage)
-- [**Project Structure**](#-project-structure)
 - [**Advanced Concepts**](#-advanced-concepts)
 - [**Contributing**](#-contributing)
 - [**License**](#-license)
