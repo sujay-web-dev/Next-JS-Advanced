@@ -1,5 +1,3 @@
-Creating a **README.md** file with markdown for GitHub, while aiming for an advanced look for a Next.js project, involves strategic use of bold text, emojis, and a clear structure. Here’s a sample template:
-
 ---
 
 # 🚀 **Advanced Next.js Project** 🚀
@@ -35,8 +33,8 @@ Welcome to the **Advanced Next.js Project**! This project demonstrates best prac
 ## 📥 **Installation**
 
 ```bash
-git clone https://github.com/yourusername/advanced-nextjs-project.git
-cd advanced-nextjs-project
+git clone https://github.com/sujay-web-dev/Next-JS-Advanced.git
+cd Next-JS-Advanced
 npm install
 ```
 
